@@ -6,4 +6,8 @@ Dahili JSON dosyasından veri çekilerek hazırlanmıştır.
 
 ## Ekran Kaydı
 
-![qrmenu.mp4]
+
+
+https://github.com/aaygunn/QRmenu/assets/104105404/38800448-5723-4740-a331-79de4b92b835
+
+
